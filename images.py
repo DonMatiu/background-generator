@@ -3,15 +3,6 @@ import os
 from PIL import Image, ImageFilter
 
 
-# grab the first and second argument
-
-# check if folder exists and if not create it
-
-# loop through Pokedex
-# convert images to png
-# save to the new folder
-
-
 # Set the directory you want to start from
 rootDir = 'Pokedex'
 # Create the output directory
